@@ -9,7 +9,7 @@
     "remark-html": "^13.0.1"
   },
   "scripts": {
-    "dev": "next dev",
+    "dev": "next",
     "build": "next build",
     "start": "next start"
   }
